@@ -26,7 +26,7 @@ Una vez identificadas cada una de las columnas y los datos del dataset, se reali
 
 ## Previsualización del Dashboard
 
-![a](https://github.com/jpbertonee/Project2_CallCenter/main/1.png?raw=true)
+![a](1.png)
 
 ## Conclusiones
 
